@@ -1,0 +1,40 @@
+﻿Date,,Alpha,holiday_Alpha,,Bravo,holiday_Bravo,,Charlie,holiday_Charlie,,Delta,holiday_Delta,,,,,,,,,
+2/1/2022,,Day-Off,Chinese New Year/ Special Non-Working Holiday,,Day-Off,Chinese New Year/ Special Non-Working Holiday,,Forced-Overtime,Chinese New Year/ Special Non-Working Holiday,,Forced-Overtime,Chinese New Year/ Special Non-Working Holiday,,,,,,,,,
+2/2/2022,,Normal,Regular Day,,Day-Off,Regular Day,,Normal,Regular Day,,Normal,Regular Day,,,,,,,,,
+2/3/2022,,Normal,Regular Day,,Day-Off,Regular Day,,Normal,Regular Day,,Day-Off,Regular Day,,,,,,,,,
+2/4/2022,,Normal,Regular Day,,Day-Off,Regular Day,,Normal,Regular Day,,Normal,Regular Day,,,,,,,,,
+2/5/2022,,Normal,Regular Day,,Day-Off,Regular Day,,Day-Off,Regular Day,,Normal,Regular Day,,,,,,,,,
+2/6/2022,,Normal,Regular Day,,Day-Off,Regular Day,,Normal,Regular Day,,Normal,Regular Day,,,,,,,,,
+2/7/2022,,Day-Off,Regular Day,,Day-Off,Regular Day,,Normal,Regular Day,,Normal,Regular Day,,,,,,,,,
+2/8/2022,,Normal,Regular Day,,Day-Off,Regular Day,,Normal,Regular Day,,Normal,Regular Day,,,,,,,,,
+2/9/2022,,Normal,Regular Day,,Day-Off,Regular Day,,Normal,Regular Day,,Day-Off,Regular Day,,,,,,,,,
+2/10/2022,,Normal,Regular Day,,Day-Off,Regular Day,,Normal,Regular Day,,Normal,Regular Day,,,,,,,,,
+2/11/2022,,Normal,Regular Day,,Day-Off,Regular Day,,Day-Off,Regular Day,,Normal,Regular Day,,,,22-Feb,,GROUP A,GROUP B,GROUP C,GROUP D
+2/12/2022,,Normal,Regular Day,,Day-Off,Regular Day,,Normal,Regular Day,,Normal,Regular Day,,,,TUE,1,OFF,OFF,4,5
+2/13/2022,,Day-Off,Regular Day,,Day-Off,Regular Day,,Normal,Regular Day,,Normal,Regular Day,,,,WED,2,4,OFF,LS,5
+2/14/2022,,Normal,Regular Day,,Day-Off,Regular Day,,Normal,Regular Day,,Normal,Regular Day,,,,THU,3,4,OFF,5,OFF
+2/15/2022,,Normal,Regular Day,,Day-Off,Regular Day,,Normal,Regular Day,,Day-Off,Regular Day,,,,FRI,4,LS,OFF,5,4
+2/16/2022,,Normal,Regular Day,,Quarantine,Regular Day,,Normal,Regular Day,,Normal,Regular Day,,,,SAT,5,5,OFF,OFF,4
+2/17/2022,,Normal,Regular Day,,Quarantine,Regular Day,,Day-Off,Regular Day,,Normal,Regular Day,,,,SUN,6,5,OFF,4,LS
+2/18/2022,,Normal,Regular Day,,Quarantine,Regular Day,,Normal,Regular Day,,Normal,Regular Day,,,,MON,7,OFF,OFF,4,5
+2/19/2022,,Day-Off,Regular Day,,Quarantine,Regular Day,,Normal,Regular Day,,Normal,Regular Day,,,,TUE,8,4,OFF,LS,5
+2/20/2022,,Normal,Regular Day,,Quarantine,Regular Day,,Normal,Regular Day,,Normal,Regular Day,,,,WED,9,4,OFF,5,OFF
+2/21/2022,,Normal,Regular Day,,Quarantine,Regular Day,,Normal,Regular Day,,Day-Off,Regular Day,,,,THU,10,LS,OFF,5,4
+2/22/2022,,Normal,Regular Day,,Quarantine,Regular Day,,Normal,Regular Day,,Normal,Regular Day,,,,FRI,11,5,OFF,OFF,4
+2/23/2022,,Normal,Regular Day,,Quarantine,Regular Day,,Day-Off,Regular Day,,Normal,Regular Day,,,,SAT,12,5,OFF,4,LS
+2/24/2022,,Normal,Regular Day,,Quarantine,Regular Day,,Normal,Regular Day,,Normal,Regular Day,,,,SUN,13,OFF,OFF,4,5
+2/25/2022,,Normal,People Power Revolution/Special Non.Working day,,Quarantine,People Power Revolution/Special Non.Working day,,Normal,People Power Revolution/Special Non.Working day,,Normal,People Power Revolution/Special Non.Working day,,,,MON,14,4,OFF,LS,5
+2/26/2022,,Normal,Regular Day,,Quarantine,Regular Day,,Normal,Regular Day,,Normal,Regular Day,,,,TUE,15,4,OFF,5,OFF
+2/27/2022,,Normal,Regular Day,,Quarantine,Regular Day,,Normal,Regular Day,,Normal,Regular Day,,,,WED,16,LS,PR,5,4
+2/28/2022,,Normal,Regular Day,,Quarantine,Regular Day,,Normal,Regular Day,,Normal,Regular Day,,,,THU,17,5,Q,OFF,4
+,,,,,,,,,,,,,,,,FRI,18,5,Q,4,LS
+,,,,,,,,,,,,,,,,SAT,19,OFF,Q,4,5
+,,,,,,,,,,,,,,,,SUN,20,4,Q,LS,5
+,,,,,,,,,,,,,,,,MON,21,4,Q,5,OFF
+,,,,,,,,,,,,,,,,TUE,22,LS,Q,5,4
+,,,,,,,,,,,,,,,,WED,23,5,Q,OFF,4
+,,,,,,,,,,,,,,,,THU,24,5,Q,4,LS
+,,,,,,,,,,,,,,,,FRI,25,4,Q,1,5
+,,,,,,,,,,,,,,,,SAT,26,4,Q,5,5
+,,,,,,,,,,,,,,,,SUN,27,4,Q,5,  
+,,,,,,,,,,,,,,,,MON,28,4,Q,5,5
